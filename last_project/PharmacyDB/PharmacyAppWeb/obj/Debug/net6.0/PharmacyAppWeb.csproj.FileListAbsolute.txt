@@ -1,0 +1,8 @@
+D:\Project\project core 6\PharmacyDB\PharmacyAppWeb\obj\Debug\net6.0\PharmacyAppWeb.csproj.AssemblyReference.cache
+D:\Project\project core 6\PharmacyDB\PharmacyAppWeb\obj\Debug\net6.0\PharmacyAppWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\project core 6\PharmacyDB\PharmacyAppWeb\obj\Debug\net6.0\PharmacyAppWeb.AssemblyInfoInputs.cache
+D:\Project\project core 6\PharmacyDB\PharmacyAppWeb\obj\Debug\net6.0\PharmacyAppWeb.AssemblyInfo.cs
+D:\Project\project core 6\PharmacyDB\PharmacyAppWeb\obj\Debug\net6.0\PharmacyAppWeb.csproj.CoreCompileInputs.cache
+D:\Project\project core 6\PharmacyDB\PharmacyAppWeb\obj\Debug\net6.0\PharmacyAppWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\project core 6\PharmacyDB\PharmacyAppWeb\obj\Debug\net6.0\PharmacyAppWeb.RazorAssemblyInfo.cache
+D:\Project\project core 6\PharmacyDB\PharmacyAppWeb\obj\Debug\net6.0\PharmacyAppWeb.RazorAssemblyInfo.cs
